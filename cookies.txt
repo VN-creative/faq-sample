@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Ffaqs
+.personalizer.io	TRUE	/	FALSE	1999999999	__cfduid	d54a4d25d1bc2ec4e2d42b1e0129588431591214194
+edge.personalizer.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+.authorize.net	TRUE	/	FALSE	1999999999	__cfruid	2756b00a858d7e986b582b4f9ca2100e6bd32de0-1591214233
+.authorize.net	TRUE	/	FALSE	1999999999	__cfduid	dbb09a845f370d40fb604bd10fdd309291591214234
+verify.authorize.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.afterpay.com	TRUE	/	FALSE	1999999999	__cfduid	d161b21e52d4ac37645f6df4f7f566acb1591214237
+static.afterpay.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.www.thespoiledmama.com	TRUE	/	FALSE	1999999999	__cfduid	d5fda26b9273f6a9adb286c25263e134a1591214383
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	_y	2dfbe01c-fd6b-429e-9a86-349787ad028e
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+www.thespoiledmama.com	TRUE	/	FALSE	1999999999	_shopify_y	2dfbe01c-fd6b-429e-9a86-349787ad028e
+
